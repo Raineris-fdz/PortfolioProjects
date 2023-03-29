@@ -9,4 +9,5 @@ Data Analyst Portfolio Projects
 
 https://public.tableau.com/views/CovidDashboard_16800320914150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
 <br /> 
+
 Link to COVID data set: https://ourworldindata.org/covid-deaths
